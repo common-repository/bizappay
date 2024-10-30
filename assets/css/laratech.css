@@ -1,0 +1,14 @@
+/* author: MJMZ : Laratech Systems */
+
+/*li.payment_method_bizappay img {
+	margin-left:10px; vertical-align:middle
+}
+
+img.bpay_logo {
+	margin-right:10px; vertical-align:middle
+}*/
+
+.wc-block-checkout__payment-method .wc-block-components-radio-control-accordion-option .wc-block-components-radio-control__label img {
+	height: 100px !important;
+	max-height: inherit !important;
+}
